@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    background-color: red;
+   
+
+}
+#section_header{
+    height:669px;
+    background-image: url("../img/foto.png");
+    background-color: yellow;
+    /* box-shadow: inset 10px 10px 5px red; transperent laag  */
+
+
+}
+header{
+    background-color: beige;
+    height: 117px;
+
+}
+nav{
+    background-color: blue;
+    height:100%;
+}
